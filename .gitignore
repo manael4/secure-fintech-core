@@ -1,0 +1,19 @@
+# Entornos virtuales y dependencias
+venv/
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Secretos y Configuración (Crítico)
+.env
+config.ini
+*.key
+*.pem
+
+# IDEs y Editores
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
